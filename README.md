@@ -1,6 +1,6 @@
 ### Hi there, my name is Tamara 👋
 
-I'm a software engineer who enjoys connecting tech with humans.
+I'm a software engineer who enjoys connecting tech with humans. Thanks for checking out my projects.
 <!--
 **skatingtamara/skatingtamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
